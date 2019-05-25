@@ -228,6 +228,8 @@
     </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="login.aspx" />
+    <Content Include="QLNhanSu\DanhSachHeSoLuong.aspx" />
+    <Content Include="QLNhanSu\DanhSachNgachLuong.aspx" />
     <Content Include="QLNhanSu\DanhSachNhanVien.aspx" />
     <Content Include="QLNhanSu\DanhSachPhongBan.aspx" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
@@ -398,7 +400,10 @@
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="BOject\BacInfo.cs" />
     <Compile Include="BOject\BoPhanInfo.cs" />
+    <Compile Include="BOject\HeSoLuongNhanVienInfo.cs" />
+    <Compile Include="BOject\NgachInfo.cs" />
     <Compile Include="BOject\NguoiDungInfo.cs" />
     <Compile Include="BOject\PhongBanInfo.cs" />
     <Compile Include="Contact.aspx.cs">
@@ -408,9 +413,13 @@
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Controller\HeSoLuongNhanVienController.cs" />
+    <Compile Include="Controller\NgachLuongController.cs" />
     <Compile Include="Controller\NhanVienController.cs" />
     <Compile Include="Controller\PhongBanController.cs" />
     <Compile Include="Datalayer\BoPhanData.cs" />
+    <Compile Include="Datalayer\HeSoLuongNhanVienData.cs" />
+    <Compile Include="Datalayer\NgachLuongData.cs" />
     <Compile Include="Datalayer\NguoiDungData.cs" />
     <Compile Include="Datalayer\NhanVienData.cs" />
     <Compile Include="Datalayer\PhongBanData.cs" />
@@ -436,6 +445,20 @@
     </Compile>
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLNhanSu\DanhSachHeSoLuong.aspx.cs">
+      <DependentUpon>DanhSachHeSoLuong.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QLNhanSu\DanhSachHeSoLuong.aspx.designer.cs">
+      <DependentUpon>DanhSachHeSoLuong.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="QLNhanSu\DanhSachNgachLuong.aspx.cs">
+      <DependentUpon>DanhSachNgachLuong.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QLNhanSu\DanhSachNgachLuong.aspx.designer.cs">
+      <DependentUpon>DanhSachNgachLuong.aspx</DependentUpon>
+    </Compile>
     <Compile Include="QLNhanSu\DanhSachNhanVien.aspx.cs">
       <DependentUpon>DanhSachNhanVien.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

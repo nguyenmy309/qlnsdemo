@@ -31,7 +31,7 @@ namespace qldademo
         SqlCommand m_Command;
 
         //string strConn = "Data Source=locohost; Initial Catalog=QLNSTL; User Id=sa; Password=;";Data Source=HOAI\SQLEXPRESS;Initial Catalog=qlnsdemo;Integrated Security=True
-        string strConn = @"Data Source=HOAI\SQLEXPRESS;Initial Catalog=QLNSTL_TTGDTX_AG;Integrated Security=True";
+        string strConn = @"Data Source=DOANHLE\SQLEXPRESS2014;Initial Catalog=QLNSTL_TTGDTX_AG;Integrated Security=True";
 
 
         public DataService()

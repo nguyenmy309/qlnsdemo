@@ -22,8 +22,8 @@ namespace qldademo.QLNhanSu
                 controller_NhanVien = new NhanVienController();
             grdViewDSNhanVien.DataSource = controller_NhanVien.HienThiDanhSachNhanVien();
             grdViewDSNhanVien.DataBind();
-            
+
         }
 
-      
+    }
 }
