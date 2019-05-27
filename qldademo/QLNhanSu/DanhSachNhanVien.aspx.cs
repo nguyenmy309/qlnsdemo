@@ -21,9 +21,16 @@ namespace qldademo.QLNhanSu
             if (controller_NhanVien == null)
                 controller_NhanVien = new NhanVienController();
             grdViewDSNhanVien.DataSource = controller_NhanVien.HienThiDanhSachNhanVien();
+<<<<<<< HEAD
             grdViewDSNhanVien.DataBind();
 
         }
 
+=======
+            grdViewDSNhanVien.DataBind();
+
+        }
+
+>>>>>>> sda
     }
 }

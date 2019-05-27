@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\ApplicationInsights.config
 c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\csc.exe
 c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -338,3 +339,222 @@ E:\Code-SPT\QLNSTL-24-05\trunk\qldademo\bin\Microsoft.Owin.Security.Google.xml
 E:\Code-SPT\QLNSTL-24-05\trunk\qldademo\bin\Microsoft.Owin.Security.Twitter.xml
 E:\Code-SPT\QLNSTL-24-05\trunk\qldademo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\Code-SPT\QLNSTL-24-05\trunk\qldademo\bin\Microsoft.Owin.Security.OAuth.xml
+=======
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\ApplicationInsights.config
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\csc.exe
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\vbc.exe
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\VBCSCompiler.exe
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\qldademo.dll.config
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\qldademo.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\qldademo.pdb
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Antlr3.Runtime.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\EntityFramework.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\EntityFramework.SqlServer.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AI.Web.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.ApplicationInsights.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Newtonsoft.Json.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Owin.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\System.Web.Optimization.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\System.Web.Providers.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\WebGrease.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AI.Web.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.ApplicationInsights.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\System.Web.Optimization.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Antlr3.Runtime.pdb
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Newtonsoft.Json.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\EntityFramework.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\EntityFramework.SqlServer.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\System.Web.Providers.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\obj\Debug\qldademo.csprojResolveAssemblyReference.cache
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\obj\Debug\qldademo.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\obj\Debug\qldademo.pdb
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\System.Net.Http.Formatting.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\System.Web.Http.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\System.Web.Http.WebHost.dll
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\System.Net.Http.Formatting.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\System.Web.Http.xml
+c:\users\hoai\documents\visual studio 2015\Projects\qldademo\qldademo\bin\System.Web.Http.WebHost.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\ApplicationInsights.config
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\roslyn\csc.exe
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\roslyn\vbc.exe
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\qldademo.dll.config
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\qldademo.dll
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\qldademo.pdb
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.AI.Web.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\System.Net.Http.Formatting.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\System.Web.Http.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\System.Web.Http.WebHost.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\System.Web.Optimization.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Antlr3.Runtime.pdb
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Newtonsoft.Json.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\EntityFramework.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\EntityFramework.SqlServer.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\System.Web.Providers.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.Owin.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.Owin.Security.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\obj\Debug\qldademo.csprojResolveAssemblyReference.cache
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\obj\Debug\qldademo.dll
+C:\Users\Hoai\Desktop\qlns\qldademo\qldademo\obj\Debug\qldademo.pdb
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\ApplicationInsights.config
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\roslyn\csc.exe
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\roslyn\System.Collections.Immutable.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\roslyn\vbc.exe
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\roslyn\VBCSCompiler.exe
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\roslyn\VBCSCompiler.exe.config
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\qldademo.dll.config
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\qldademo.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\qldademo.pdb
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Antlr3.Runtime.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\AspNet.ScriptManager.jQuery.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\EntityFramework.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\EntityFramework.SqlServer.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AI.DependencyCollector.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AI.Web.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AI.WindowsServer.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.ApplicationInsights.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.Google.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Web.Infrastructure.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Newtonsoft.Json.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Owin.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\System.Net.Http.Formatting.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\System.Web.Http.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\System.Web.Http.WebHost.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\System.Web.Optimization.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\System.Web.Providers.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\WebGrease.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AI.DependencyCollector.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AI.Web.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AI.WindowsServer.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.ApplicationInsights.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\System.Net.Http.Formatting.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\System.Web.Http.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\System.Web.Http.WebHost.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\System.Web.Optimization.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Antlr3.Runtime.pdb
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Newtonsoft.Json.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\EntityFramework.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\EntityFramework.SqlServer.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\System.Web.Providers.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.Google.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\obj\Debug\qldademo.csprojResolveAssemblyReference.cache
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\obj\Debug\qldademo.dll
+E:\Code-SPT\QLNSTL-23-05\qldademo\qldademo\obj\Debug\qldademo.pdb
+>>>>>>> sda
